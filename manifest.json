@@ -1,0 +1,16 @@
+{
+  "name": "Prop Firm Trading Journal",
+  "short_name": "PropJournal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b132b",
+  "theme_color": "#1c2541",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1998/1998610.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
